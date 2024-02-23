@@ -1,0 +1,910 @@
+fileFormatVersion: 2
+guid: d02b9da75fd9ade4d8c33068d4d11321
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 10-Magic-Sprite-Sheet-Effects-Pixel-Art0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 778
+        width: 205
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38bb3c98617adcc448666ce8706a2aea
+      internalID: 1901061026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-Magic-Sprite-Sheet-Effects-Pixel-Art0_1
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 778
+        width: 205
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f6b0536e74b2d48a2e162d95e6aeff
+      internalID: -304072315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-Magic-Sprite-Sheet-Effects-Pixel-Art0_2
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 778
+        width: 205
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f87f2cf664097d4ca414c85cd6c2297
+      internalID: -751188648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-Magic-Sprite-Sheet-Effects-Pixel-Art0_3
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 778
+        width: 205
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1345ce63f48a3b342bce6fa1a49e1508
+      internalID: -2105848558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-Magic-Sprite-Sheet-Effects-Pixel-Art0_4
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 778
+        width: 205
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59daec26b8511c44ea934bc3571bfd51
+      internalID: 2005405497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-Magic-Sprite-Sheet-Effects-Pixel-Art0_5
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 778
+        width: 205
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214bd16cab6d02c4b84b4a8fd1178e65
+      internalID: 1067376706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-Magic-Sprite-Sheet-Effects-Pixel-Art0_6
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 778
+        width: 205
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8cbcb5c5dc6b840b650d61b6eed931
+      internalID: 539820084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-Magic-Sprite-Sheet-Effects-Pixel-Art0_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 596
+        width: 205
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928fe2ed7d0b3d14ca4b6c89e2f574f5
+      internalID: -1515925168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-Magic-Sprite-Sheet-Effects-Pixel-Art0_8
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 596
+        width: 205
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d274e06300f334343a99fe58641c0ab1
+      internalID: -174237608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-Magic-Sprite-Sheet-Effects-Pixel-Art0_9
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 596
+        width: 205
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870135a0d4b13da4d98a73fe3a49060d
+      internalID: 1393101183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-Magic-Sprite-Sheet-Effects-Pixel-Art0_10
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 596
+        width: 205
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a579e0c229ce3b94a80c359a705279b8
+      internalID: 1233790213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-Magic-Sprite-Sheet-Effects-Pixel-Art0_11
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 596
+        width: 205
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37738dd2589c41a4089bbfaf86ca2fc0
+      internalID: 238550346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-Magic-Sprite-Sheet-Effects-Pixel-Art0_12
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 596
+        width: 205
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28654661539e0b842a0f5768ddbe5c75
+      internalID: -1633388656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-Magic-Sprite-Sheet-Effects-Pixel-Art0_13
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 596
+        width: 205
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c18bd30b476e34e8a2e754b503805d
+      internalID: 932655488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-Magic-Sprite-Sheet-Effects-Pixel-Art0_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 414
+        width: 205
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f9b5c2a813502499c001ae20cd19d9
+      internalID: 806113547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-Magic-Sprite-Sheet-Effects-Pixel-Art0_15
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 414
+        width: 205
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72686c0bebff8bb45b35a332194cdf98
+      internalID: 1550928181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-Magic-Sprite-Sheet-Effects-Pixel-Art0_16
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 414
+        width: 205
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321abb85e9d4c07498b0f54b5e7b2201
+      internalID: -727487367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-Magic-Sprite-Sheet-Effects-Pixel-Art0_17
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 414
+        width: 205
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c160df7415bf8b74b8f5ab16c55777a8
+      internalID: 2013750198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-Magic-Sprite-Sheet-Effects-Pixel-Art0_18
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 414
+        width: 205
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e06db02db1a87458614dea06e5ea48
+      internalID: -35800183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-Magic-Sprite-Sheet-Effects-Pixel-Art0_19
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 414
+        width: 205
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06675b72a76f424795d5af1ef7d9b74
+      internalID: -855629949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-Magic-Sprite-Sheet-Effects-Pixel-Art0_20
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 414
+        width: 205
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1118f76bb79eacc4b81fa43178d90050
+      internalID: -249301978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-Magic-Sprite-Sheet-Effects-Pixel-Art0_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 232
+        width: 205
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b318cd3a936e02458ee21a44255cf9e
+      internalID: -904348644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-Magic-Sprite-Sheet-Effects-Pixel-Art0_22
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 232
+        width: 205
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d18d21a772765741a633ba1f2639bef
+      internalID: 1042478993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-Magic-Sprite-Sheet-Effects-Pixel-Art0_23
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 221
+        width: 192
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2cead7e0fdc4d4388dca8a478d7a4f
+      internalID: 770182592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-Magic-Sprite-Sheet-Effects-Pixel-Art0_24
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 232
+        width: 205
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9487fd0d76537ac43ba1473efb20c0a5
+      internalID: 1588152570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-Magic-Sprite-Sheet-Effects-Pixel-Art0_25
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 232
+        width: 205
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8fe7ff2f806baf439a270ec45d0e3a5
+      internalID: 907998883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-Magic-Sprite-Sheet-Effects-Pixel-Art0_26
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 232
+        width: 205
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45c6e67d0d8ebb4d8ee2557117a9b58
+      internalID: -29313497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-Magic-Sprite-Sheet-Effects-Pixel-Art0_27
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 232
+        width: 205
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1fc049a4f78910489eb2b11608b7b32
+      internalID: 1995992998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-Magic-Sprite-Sheet-Effects-Pixel-Art0_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50
+        width: 205
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d919add3ce56b46ac30c43c4c66abc
+      internalID: -882465942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-Magic-Sprite-Sheet-Effects-Pixel-Art0_29
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 50
+        width: 205
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ffd2b2920fb28438eec7dcec8705bf
+      internalID: 1562239349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-Magic-Sprite-Sheet-Effects-Pixel-Art0_30
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 50
+        width: 205
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9cf5051583d15489053f4033d5e51b
+      internalID: 382627466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-Magic-Sprite-Sheet-Effects-Pixel-Art0_31
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 50
+        width: 205
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274c2e72c27018149a90a274099ba7da
+      internalID: 1609923915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-Magic-Sprite-Sheet-Effects-Pixel-Art0_32
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 50
+        width: 205
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6bad842c3af2eb49abf2d89a3a9f972
+      internalID: -139044811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-Magic-Sprite-Sheet-Effects-Pixel-Art0_33
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 50
+        width: 205
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db803d9cff283d84ba4a9bd3ae82b36a
+      internalID: 1015907883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-Magic-Sprite-Sheet-Effects-Pixel-Art0_34
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 50
+        width: 205
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b121923b8afa547be06230d5493292
+      internalID: -1783355841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      10-Magic-Sprite-Sheet-Effects-Pixel-Art0_0: 1901061026
+      10-Magic-Sprite-Sheet-Effects-Pixel-Art0_1: -304072315
+      10-Magic-Sprite-Sheet-Effects-Pixel-Art0_10: 1233790213
+      10-Magic-Sprite-Sheet-Effects-Pixel-Art0_11: 238550346
+      10-Magic-Sprite-Sheet-Effects-Pixel-Art0_12: -1633388656
+      10-Magic-Sprite-Sheet-Effects-Pixel-Art0_13: 932655488
+      10-Magic-Sprite-Sheet-Effects-Pixel-Art0_14: 806113547
+      10-Magic-Sprite-Sheet-Effects-Pixel-Art0_15: 1550928181
+      10-Magic-Sprite-Sheet-Effects-Pixel-Art0_16: -727487367
+      10-Magic-Sprite-Sheet-Effects-Pixel-Art0_17: 2013750198
+      10-Magic-Sprite-Sheet-Effects-Pixel-Art0_18: -35800183
+      10-Magic-Sprite-Sheet-Effects-Pixel-Art0_19: -855629949
+      10-Magic-Sprite-Sheet-Effects-Pixel-Art0_2: -751188648
+      10-Magic-Sprite-Sheet-Effects-Pixel-Art0_20: -249301978
+      10-Magic-Sprite-Sheet-Effects-Pixel-Art0_21: -904348644
+      10-Magic-Sprite-Sheet-Effects-Pixel-Art0_22: 1042478993
+      10-Magic-Sprite-Sheet-Effects-Pixel-Art0_23: 770182592
+      10-Magic-Sprite-Sheet-Effects-Pixel-Art0_24: 1588152570
+      10-Magic-Sprite-Sheet-Effects-Pixel-Art0_25: 907998883
+      10-Magic-Sprite-Sheet-Effects-Pixel-Art0_26: -29313497
+      10-Magic-Sprite-Sheet-Effects-Pixel-Art0_27: 1995992998
+      10-Magic-Sprite-Sheet-Effects-Pixel-Art0_28: -882465942
+      10-Magic-Sprite-Sheet-Effects-Pixel-Art0_29: 1562239349
+      10-Magic-Sprite-Sheet-Effects-Pixel-Art0_3: -2105848558
+      10-Magic-Sprite-Sheet-Effects-Pixel-Art0_30: 382627466
+      10-Magic-Sprite-Sheet-Effects-Pixel-Art0_31: 1609923915
+      10-Magic-Sprite-Sheet-Effects-Pixel-Art0_32: -139044811
+      10-Magic-Sprite-Sheet-Effects-Pixel-Art0_33: 1015907883
+      10-Magic-Sprite-Sheet-Effects-Pixel-Art0_34: -1783355841
+      10-Magic-Sprite-Sheet-Effects-Pixel-Art0_4: 2005405497
+      10-Magic-Sprite-Sheet-Effects-Pixel-Art0_5: 1067376706
+      10-Magic-Sprite-Sheet-Effects-Pixel-Art0_6: 539820084
+      10-Magic-Sprite-Sheet-Effects-Pixel-Art0_7: -1515925168
+      10-Magic-Sprite-Sheet-Effects-Pixel-Art0_8: -174237608
+      10-Magic-Sprite-Sheet-Effects-Pixel-Art0_9: 1393101183
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Player
+  - Enemy
+  - FX
+  - Item
+  - Trap
+  - Waters
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 216853661
+    locked: 0
+  - name: Decor
+    uniqueID: 2578696697
+    locked: 0
+  - name: Trap
+    uniqueID: 2354485149
+    locked: 0
+  - name: Arrow
+    uniqueID: 917193949
+    locked: 0
+  - name: Platform
+    uniqueID: 418391865
+    locked: 0
+  - name: CheckPoint
+    uniqueID: 1299974233
+    locked: 0
+  - name: Item
+    uniqueID: 831103251
+    locked: 0
+  - name: Enemy
+    uniqueID: 2155300157
+    locked: 0
+  - name: Player
+    uniqueID: 2490621995
+    locked: 0
+  - name: Fx
+    uniqueID: 2199205073
+    locked: 0
